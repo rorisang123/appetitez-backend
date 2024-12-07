@@ -1,0 +1,6 @@
+@appetitez_HostAddress = http://localhost:5042
+
+GET {{appetitez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
