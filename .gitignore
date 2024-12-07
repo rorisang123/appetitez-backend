@@ -1,0 +1,47 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+appetitez/*.swp
+appetitez/*.*~
+appetitez/project.lock.json
+appetitez/.DS_Store
+appetitez/*.pyc
+
+# Visual Studio Code
+appetitez/.vscode/
+# Rider
+appetitez/.idea/
+
+# Visual Studio
+appetitez/.vs/
+
+# Fleet
+appetitez/.fleet/
+
+# Code Rush
+appetitez/.cr/
+
+# User-specific files
+appetitez/*.suo
+appetitez/*.user
+appetitez/*.userosscache
+appetitez/*.sln.docstates
+
+# Build results
+appetitez/[Dd]ebug/
+appetitez/[Dd]ebugPublic/
+appetitez/[Rr]elease/
+appetitez/[Rr]eleases/
+appetitez/x64/
+appetitez/x86/
+appetitez/build/
+appetitez/bld/
+appetitez/[Bb]in/
+appetitez/[Oo]bj/
+appetitez/[Oo]ut/
+appetitez/msbuild.log
+appetitez/msbuild.err
+appetitez/msbuild.wrn
